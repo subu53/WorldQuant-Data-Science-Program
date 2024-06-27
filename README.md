@@ -3,7 +3,7 @@ Here you can find all the 8 projects of WorldQuant's Data Science Program along 
 
 I'm exhilarated to share that I have successfully completed WorldQuant's Data Science Program, a transformative journey that has broadened my skills and knowledge in the field of data science! 🎓 ✨ 
 
-Check my badge: [https://www.credly.com/badges/4480df1c-d561-4ef8-9852-79b5748e0c73/public_url](https://www.credly.com/badges/8b8158df-e62d-4dae-bbc2-f1bade1da673/whatsapp)
+Check my badge: [[(https://www.credly.com/badges/8b8158df-e62d-4dae-bbc2-f1bade1da673)/public_url](https://www.credly.com/badges/8b8158df-e62d-4dae-bbc2-f1bade1da673/whatsapp)
 
 
 Throughout the program, I had the opportunity to work on eight fascinating projects, each designed to enhance my understanding and practical application of key data science concepts. Let me provide a brief explanation of each project:
